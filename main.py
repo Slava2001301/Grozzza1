@@ -10,7 +10,7 @@ def shiftArrMax(arr):
 
 arr = list()
 
-for i in range(50):
+for i in range(3):
     while True:
         try:
             value = int(input("Input number " + str(i + 1) + ": "))
